@@ -50,10 +50,10 @@ dashboards
   ✅ Subject-wise performance analysis
   
 
-## **🔹 Expected Insights & Outcomes:**  
-✅ Identify **at-risk students** before they drop out.  
-✅ Detect **key subjects** where students struggle the most.  
-✅ Analyze how **attendance impacts student performance**.  
-✅ Provide **data-driven suggestions** to improve retention.  
+## 🔹 Insights & Outcomes:
+✅ Identifyed at-risk students before they drop out.  
+✅ Detected key subjects where students struggle the most.  
+✅ Analyzed how attendance impacts student performance.  
+✅ Provided data-driven suggestions to improve retention.  
 
 
