@@ -42,18 +42,16 @@ MSQL,Google Sheets,Excel,Power BI                 – Data management & preproce
 - Query GPA trends, dropout rates, and attendance patterns.  
 - Use SQL joins to merge student, subject, and attendance tables.  
 - Perform aggregations (AVG, COUNT, SUM) to extract insights.  
-3️⃣ Data Visualization (Power BI / Google Data Studio)  
+3️⃣ Data Visualization (Power BI)  
 dashboards  
   ✅ Student performance trends
   ✅ Dropout rates by semester  
-  ✅ Attendance vs. grades correlation  
+  ✅ Attendance vs grades correlation  
   ✅ Subject-wise performance analysis
-  
-
-## 🔹 Insights & Outcomes:
-✅ Identifyed at-risk students before they drop out.  
-✅ Detected key subjects where students struggle the most.  
-✅ Analyzed how attendance impacts student performance.  
-✅ Provided data-driven suggestions to improve retention.  
+Insights & Outcomes:
+  ✅ Identifyed at-risk students before they drop out.  
+  ✅ Detected key subjects where students struggle the most.  
+  ✅ Analyzed how attendance impacts student performance.  
+  ✅ Provided data-driven suggestions to improve retention.  
 
 
